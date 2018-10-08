@@ -1,2 +1,3 @@
-# lip-reading
-My reconstruction of a lip reading CNN/LSTM
+# Repeat after me
+
+An AI language tutor that help people to pronounce English and other languages.
